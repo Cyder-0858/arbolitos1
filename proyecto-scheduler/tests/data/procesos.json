@@ -1,0 +1,38 @@
+[
+    {
+        "pid": 1,
+        "duracion": 5,
+        "prioridad": 1,
+        "tiempo_restante": 5,
+        "tiempo_llegada": 0,
+        "tiempo_inicio": null,
+        "tiempo_fin": null
+    },
+    {
+        "pid": 2,
+        "duracion": 3,
+        "prioridad": 2,
+        "tiempo_restante": 3,
+        "tiempo_llegada": 1,
+        "tiempo_inicio": null,
+        "tiempo_fin": null
+    },
+    {
+        "pid": 3,
+        "duracion": 8,
+        "prioridad": 1,
+        "tiempo_restante": 8,
+        "tiempo_llegada": 2,
+        "tiempo_inicio": null,
+        "tiempo_fin": null
+    },
+    {
+        "pid": 4,
+        "duracion": 6,
+        "prioridad": 3,
+        "tiempo_restante": 6,
+        "tiempo_llegada": 3,
+        "tiempo_inicio": null,
+        "tiempo_fin": null
+    }
+]
